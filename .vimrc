@@ -10,6 +10,8 @@ set encoding=utf-8
 set showmatch
 set sw=2
 set relativenumber
+set colorcolumn=80
+set termguicolors
 so ~/.vim/plugins.vim
 so ~/.vim/plugin-config.vim
 so ~/.vim/maps.vim
